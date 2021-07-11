@@ -1,4 +1,4 @@
-# hello-world
-msg = "Hello World"
+# hello-web
+msg = "Hello Web"
 
 print(msg)
